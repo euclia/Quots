@@ -52,14 +52,14 @@ networks:
     external: true
 ```
 
-
+```
 Env's
 MONGO_URL -> The database url
 CREDITS -> The default credits per user that is created
 DATABASE -> The name of the database
 QUOTS_USER -> Quots admin username
 QUOTS_PASSWORD -> Quots admin password
-
+```
 
 
 Login to create applications / microservices that uses quots 
@@ -95,3 +95,4 @@ Install-Package netquots -Version 0.1.0
 Documentation soon to come 
 
 
+Contact:  contact@euclia.xyz
