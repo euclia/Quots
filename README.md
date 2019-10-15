@@ -4,7 +4,7 @@
 
 In a cluster every microservice may handle specific tasks per user. These tasks can be costly and the needs in resources may vary. Quots gives every user some credits that can be at any time used from any microservice.
 
-![alt text](https://raw.githubusercontent.com/euclia/quots/blob/master/quots_pics/quotsmain.png)
+![alt text](https://github.com/euclia/quots/blob/master/quots_pics/quotsmain.png)
 
 Quots app is available as a docker container.  [I'm an inline-style link](https://hub.docker.com/r/euclia/quots)
 
@@ -65,14 +65,14 @@ QUOTS_PASSWORD -> Quots admin password
 Login to create applications / microservices that uses quots 
 
 
-![alt text](https://raw.githubusercontent.com/euclia/quots/blob/master/quots_pics/appshowcase.png)
+![alt text](https://github.com/euclia/quots/blob/master/quots_pics/appshowcase.png)
 
 Add usages and costs per usage
 
 
 And your micriservice is ready to use Quotas per user!
 
-![alt text](https://raw.githubusercontent.com/euclia/quots/blob/master/quots_pics/user.png)
+![alt text](https://github.com/euclia/quots/blob/master/quots_pics/user.png)
 
 
 
