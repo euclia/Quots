@@ -6,7 +6,7 @@ In a cluster every microservice may handle specific tasks per user. These tasks 
 
 ![alt text](https://github.com/euclia/quots/blob/master/quots_pics/quotsmain.png)
 
-Quots app is available as a docker container.  [I'm an inline-style link](https://hub.docker.com/r/euclia/quots)
+Quots app is available as a docker container.  [Docker hub](https://hub.docker.com/r/euclia/quots)
 
 # Credit and resource management for microservices
 
